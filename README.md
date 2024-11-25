@@ -10,6 +10,6 @@ Team-based (60%)
 1. Workshop Team reflection/activity (18%) during weeks 2 - 7 (on-campus workshop assessment)
 2. Innovation concept report (20%) due end of week 7 (canvas online submission)
 3. Project presentation (22%) during week 11 (canvas online submission)
-## This course requires a lot of collaboration, therefore my report and design are only reference resources. 
+### This course requires a lot of collaboration, therefore my report and design are only reference resources!
 ### If you need to review the presentation slides, please contact me via [email](davenguyen2k5@gmail.com).
-### Do not attempt to copy my works in any way, your Convenor of the Unit will know!!!
+### Do not attempt to copy my works in any way, your Convenor of the Unit will know!
