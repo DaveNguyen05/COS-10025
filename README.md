@@ -1,4 +1,4 @@
-# COS-10025_Technology_in_an_Indigenous_Context_Project
+## COS-10025_Technology_in_an_Indigenous_Context_Project
 This is a project-based unit where you work in teams to design a solution to a community-driven challenge. The project will have a substantial emphasis on indigenous community-based problems.
 ### The following is the course Assessment:
 Individual (40%) 
